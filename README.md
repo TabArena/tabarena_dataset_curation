@@ -1,10 +1,9 @@
 # TabArena - Tabular IID Dataset Curation Repository
 
 This repository contains the code and metadata from the curation efforts for TabArena-v0.1.
-In detail, the curation efforts was focused on IID tabular data.
+In detail, the curation efforts were focused on IID tabular data.
 
-**Note:** this repository is subject to future change. Specifically it will be restructured to also, e.g., contain
-non-IID data.
+**Note:** This repository is archived; all future data curaiton is done in: https://github.com/TabArena/tabarena_dataset_curation
 
 ## Contributing Data - New Dataset or Feedback
 
